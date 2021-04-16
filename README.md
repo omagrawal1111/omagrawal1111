@@ -20,6 +20,7 @@
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omagrawal1111&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="omagrawal1111 Spotify Playing" width="350" />](https://open.spotify.com/user/8teoczgfthsompp2zscmwnmi1)
 
 ## Connect With Me
