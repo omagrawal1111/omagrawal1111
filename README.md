@@ -1,11 +1,11 @@
 ### Hi there 👋 
 
 # I'm Om Agrawal
-- 🔭 I’m currently in 3rd year of Computer Science Engineering.
-- 🌱 I’m currently learning Machine Learning, OpenCV & Deep Learning.
-- 👯 I’m looking to collaborate on some cool and unique Machine Learning and IOT Projects.
-- 📫 How to reach me: recruitomagrawal.gehu@gmail.com
-- 😄 Pronouns: He/His
+- #🔭 I’m currently in 3rd year of Computer Science Engineering.<br>
+- #🌱 I’m currently learning Machine Learning, OpenCV & Deep Learning.<br>
+- #👯 I’m looking to collaborate on some cool and unique Machine Learning and IOT Projects.<br>
+- #📫 How to reach me: recruitomagrawal.gehu@gmail.com<br>
+- #😄 Pronouns: He/His
 
 ## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omagrawal1111&show_icons=true&theme=radical)
