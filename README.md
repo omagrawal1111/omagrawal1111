@@ -12,6 +12,7 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=omagrawal1111)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=omagrawal1111&rank=S
 
 ## Skills And Experience
 ### * ⚛ React
