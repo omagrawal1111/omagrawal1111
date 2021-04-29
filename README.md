@@ -2,13 +2,13 @@
 <h1 align="center">Hola, I'm Om Agrawal 👋 </h1>
 <img align="right" alt="GIF" src="https://github.com/omagrawal1111/omagrawal1111/blob/main/Gif.gif" width="360"/>
 
-
+<h3>
 -  🔭 I’m currently in 3rd year of Computer Science Engineering.<br>
 -  🌱 I’m currently learning Machine Learning, OpenCV & Deep Learning.<br>
 -  👯 I’m looking to collaborate on some cool and unique Machine Learning and IOT Projects.<br>
 -  📫 How to reach me: recruitomagrawal.gehu@gmail.com<br>
 -  😄 Pronouns: He/His
-
+</h3>
 
 <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
