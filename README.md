@@ -1,11 +1,13 @@
 ### Hi there 👋 
+<h1 align="center">Hola, I'm Akhil Bhalerao 👋 </h1>
+<img align="right" alt="GIF" src="https://github.com/iamakkkhil/iamakkkhil/blob/master/coding_2.gif" width="360"/>
 
 # I'm Om Agrawal
-- ### 🔭 I’m currently in 3rd year of Computer Science Engineering.<br>
-- ### 🌱 I’m currently learning Machine Learning, OpenCV & Deep Learning.<br>
-- ### 👯 I’m looking to collaborate on some cool and unique Machine Learning and IOT Projects.<br>
-- ### 📫 How to reach me: recruitomagrawal.gehu@gmail.com<br>
-- ### 😄 Pronouns: He/His
+-  🔭 I’m currently in 3rd year of Computer Science Engineering.<br>
+-  🌱 I’m currently learning Machine Learning, OpenCV & Deep Learning.<br>
+-  👯 I’m looking to collaborate on some cool and unique Machine Learning and IOT Projects.<br>
+-  📫 How to reach me: recruitomagrawal.gehu@gmail.com<br>
+-  😄 Pronouns: He/His
 
 ## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omagrawal1111&show_icons=true&theme=radical)
