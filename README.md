@@ -1,17 +1,16 @@
-### Hi there 👋 
-<h1 align="center">Hola, I'm Om Agrawal 👋 </h1>
+# Hola, I'm Om Agrawal 👋 
 <img align="right" alt="GIF" src="https://github.com/omagrawal1111/omagrawal1111/blob/main/Gif.gif" width="360"/>
 
 
--  🔭 I’m currently in 3rd year of Computer Science Engineering.<br>
--  🌱 I’m currently learning Machine Learning, OpenCV & Deep Learning.<br>
--  👯 I’m looking to collaborate on some cool and unique Machine Learning and IOT Projects.<br>
--  📫 How to reach me: recruitomagrawal.gehu@gmail.com<br>
--  😄 Pronouns: He/His
-<br><br><br>
+- ### 🔭 I’m currently in 3rd year of Computer Science Engineering.<br>
+- ### 🌱 I’m currently learning Machine Learning, OpenCV & Deep Learning.<br>
+- ### 👯 I’m looking to collaborate on some cool and unique Machine Learning and IOT Projects.<br>
+- ### 📫 How to reach me: recruitomagrawal.gehu@gmail.com<br>
+- ### 😄 Pronouns: He/His
+<br><br>
 
-<h2 align="center">📫 Reach out to me on</h2>
-<p align="center">
+<h2>📫 Reach out to me on</h2>
+<p>
   <a target="_blank"href="https://www.linkedin.com/in/om-agrawal-99266a154/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/omagrawal007"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:recruitomagrawal.gehu@gmail.com?subject=Hello%20Om,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
