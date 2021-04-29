@@ -9,8 +9,6 @@
 -  📫 How to reach me: recruitomagrawal.gehu@gmail.com<br>
 -  😄 Pronouns: He/His
 
-## Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omagrawal1111&show_icons=true&theme=radical)
 
 <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
@@ -18,11 +16,13 @@
   <a target="_blank"href="https://twitter.com/omagrawal007"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:recruitomagrawal.gehu@gmail.com?subject=Hello%20Om,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/_omagrawal1_/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/omagrawal1111"><img src="https://img.shields.io/static/v1?label=AB&message=Portfolio&color=green" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p> 
+
 
 <br /> 
 <br />
+## Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omagrawal1111&show_icons=true&theme=radical)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=omagrawal1111&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
