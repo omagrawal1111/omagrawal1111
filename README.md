@@ -1,6 +1,6 @@
 ### Hi there 👋 
 <h1 align="center">Hola, I'm Om Agrawal 👋 </h1>
-<img align="right" alt="GIF" src="https://github.com/omagrawal1111/omagrawal1111/blob/master/Gif.gif" width="360"/>
+<img align="right" alt="GIF" src="https://github.com/omagrawal1111/omagrawal1111/blob/main/Gif.gif" width="360"/>
 
 
 -  🔭 I’m currently in 3rd year of Computer Science Engineering.<br>
