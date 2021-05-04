@@ -37,7 +37,7 @@
   <a href="https://www.instagram.com/_omagrawal1_/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   
 <a href="https://dev.to/omagrawal1111">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Om Agrawal's DEV Community Profile" height="30" width="30">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg&style=for-the-badge&logo=DEV&logoColor=black" alt="Om Agrawal's DEV Community Profile" height="30" width="30">
 </a>
      
 
