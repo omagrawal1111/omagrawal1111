@@ -18,6 +18,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omagrawal1111&" alt="omagrawal1111" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=omagrawal1111&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omagrawal1111" alt="omagrawal1111" /></a> </p>
 
 ## Skills And Experience :
 ### * ⚛ React
