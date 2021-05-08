@@ -15,6 +15,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omagrawal1111&show_icons=true&theme=radical)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omagrawal1111&" alt="omagrawal1111" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=omagrawal1111&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -43,11 +44,7 @@
 </a>
        
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omagrawal1111&show_icons=true&locale=en&layout=compact" alt="omagrawal1111" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omagrawal1111&show_icons=true&locale=en" alt="omagrawal1111" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omagrawal1111&" alt="omagrawal1111" /></p>
 <br /> 
 <br />
 
