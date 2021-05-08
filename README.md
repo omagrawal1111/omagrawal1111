@@ -13,12 +13,14 @@
 
 ##  Github Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omagrawal1111&show_icons=true&theme=radical)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omagrawal1111&" alt="omagrawal1111" /></p>
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omagrawal1111&show_icons=true&theme=radical)
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=omagrawal1111&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omagrawal1111" alt="omagrawal1111" /></a> </p>
+
 
 ## Skills And Experience :
 ### * ⚛ React
