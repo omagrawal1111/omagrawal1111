@@ -13,7 +13,7 @@
 
 ##  Github Stats :
 
-### Click here to see my<a href="https://gitstats.me/omagrawal1111"> GitStats </a> 📊
+### Click here to see my --> <a href="https://gitstats.me/omagrawal1111"> GitStats </a> 📊
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omagrawal1111&" alt="omagrawal1111" /></p>
 
