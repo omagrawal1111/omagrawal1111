@@ -36,20 +36,20 @@
 
 
   
-### 📫 Reach out to me on :
-<p>
-  <a target="_blank"href="https://www.linkedin.com/in/om-agrawal/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://twitter.com/omagrawal007"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:recruitomagrawal.gehu@gmail.com?subject=Hello%20Om,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/_omagrawal1_/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
+### 📫 Connect with me:
 
-<a href="https://dev.to/omagrawal1111">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Om Agrawal's DEV Community Profile" height="30" width="30">
-</a>
-       
-
-
+<p align="left">
+<a href="https://codepen.io/omagrawal1111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="omagrawal1111" height="30" width="40" /></a>
+<a href="https://dev.to/omagrawal1111" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="omagrawal1111" height="30" width="40" /></a>
+<a href="https://twitter.com/omagrawal007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="omagrawal007" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/om-agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="om-agrawal" height="30" width="40" /></a>
+<a href="https://kaggle.com/omagrawal1111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="omagrawal1111" height="30" width="40" /></a>
+<a href="https://instagram.com/_omagrawal1_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="_omagrawal1_" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/omagrawal1111" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="omagrawal1111" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/omagrawal1111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="omagrawal1111" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/omagrawal1111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="omagrawal1111" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@the123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerearth.svg" alt="@the123" height="30" width="40" /></a>
+</p>
 <br /> 
 <br />
 
