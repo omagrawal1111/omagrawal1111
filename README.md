@@ -46,9 +46,9 @@
 <a href="https://kaggle.com/omagrawal1111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="omagrawal1111" height="30" width="40" /></a>
 <a href="https://instagram.com/_omagrawal1_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="_omagrawal1_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/omagrawal1111" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="omagrawal1111" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/omagrawal1111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="omagrawal1111" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/omagrawal1111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="omagrawal1111" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@the123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerearth.svg" alt="@the123" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/omagrawal1111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/tree/master/src/images/icons/Social/hackerrank.svg" alt="omagrawal1111" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/omagrawal1111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/tree/master/src/images/icons/Social/leet-code.svg" alt="omagrawal1111" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@the123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/tree/master/src/images/icons/Social/hackerearth.svg" alt="@the123" height="30" width="40" /></a>
 </p>
 <br /> 
 <br />
