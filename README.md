@@ -18,7 +18,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omagrawal1111&" alt="omagrawal1111" /></p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omagrawal1111&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omagrawal1111&show_icons=true)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=omagrawal1111&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
