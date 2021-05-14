@@ -6,7 +6,7 @@
 - ### 🌱 I’m currently learning Machine Learning, OpenCV & Deep Learning.<br>
 - ### 👯 I’m looking to collaborate on some cool and unique Machine Learning and IOT Projects.<br>
 - ### 📫 How to reach me: recruitomagrawal.gehu@gmail.com<br>
-- ### 📑 Link to Portfolio : <a href="www.omagrawal.me">Portfolio</a>
+- ### 📑 Link to Portfolio : <a href="https://www.omagrawal.me">Portfolio</a>
 - ### 😄 Pronouns: He/His
 
 <br>
