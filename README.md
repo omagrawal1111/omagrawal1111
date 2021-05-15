@@ -28,7 +28,7 @@
 ### * ⚛ React
 ### * 💻 HTML,CSS,PYTHON
 
-## Most Used Languages :
+## Most Used Languages 💻:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omagrawal1111&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
