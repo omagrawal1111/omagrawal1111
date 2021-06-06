@@ -15,13 +15,11 @@
 
 ### Click here to see my --> <a href="https://gitstats.me/omagrawal1111"> GitStats </a> 📊
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omagrawal1111&" alt="omagrawal1111" /></p>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omagrawal1111&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omagrawal1111&theme=highcontrast)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omagrawal1111&show_icons=true&theme=highcontrast)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=omagrawal1111)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ## Skills And Experience :
