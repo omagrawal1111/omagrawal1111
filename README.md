@@ -40,16 +40,14 @@
 
   
 ### 📫 Reach out to me on :
-<p>
-  <a target="_blank"href="https://www.linkedin.com/in/om-agrawal/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://twitter.com/omagrawal007"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:recruitomagrawal.gehu@gmail.com?subject=Hello%20Om,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/_omagrawal1_/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  [<img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>](https://www.linkedin.com/in/om-agrawal/) &nbsp;
+  [<img src="https://img.icons8.com/doodle/48/000000/instagram-new.png"/>](https://www.instagram.com/_omagrawal1_/) &nbsp;
+  [<img src="https://img.icons8.com/doodle/48/000000/twitter--v1.png"/>](https://twitter.com/omagrawal007) &nbsp;
+  [<img src="https://img.icons8.com/doodle/48/000000/skype.png"/>](https://join.skype.com/invite/vncXpNI4BvAb)
   
 
-<a href="https://dev.to/omagrawal1111">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Om Agrawal's DEV Community Profile" height="30" width="30">
-</a>
+
 <br /> 
 <br />
 
