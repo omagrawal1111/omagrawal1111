@@ -19,8 +19,22 @@
   <br>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omagrawal1111&show_icons=true&theme=highcontrast)
 
+  
+  <details >
+  <summary>GitHub Activity Graph 📈</summary>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=omagrawal1111&theme=xcode" />
+</p>
+</details>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=omagrawal1111)](https://github.com/ryo-ma/github-profile-trophy)
+<details >
+  <summary>GitHub Trophies 🏆</summary>
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=omagrawal1111&column=4&margin-w=5&margin-h=5&theme=darkhub"/>
+  </a>
+
+</details>
 
 
 
