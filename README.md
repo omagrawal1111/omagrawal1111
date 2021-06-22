@@ -28,7 +28,7 @@
 </details>
 
 <details >
-  <summary>GitHub Trophies 🏆</summary>
+  <summary>🏆 GitHub Trophies 🏆</summary>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=omagrawal1111&theme=darkhub"/>
