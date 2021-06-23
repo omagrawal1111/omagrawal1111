@@ -70,13 +70,13 @@
 
 <img align="right" height="200" width="200" src="https://github.com/omagrawal1111/imagebot/blob/main/7color.gif">
 
-
+</br>
 
 ## Skills And Experience :
 ### * ⚛ React, NodeJS
 ### * 💻 HTML,CSS,PYTHON
 
-
+</br>
 
 
 
