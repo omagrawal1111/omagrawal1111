@@ -62,7 +62,7 @@
  
 ## GitHub Activity Graph 📈
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=omagrawal1111&theme=react-dark" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=omagrawal1111&theme=xcode" />
 </p>
 
 
