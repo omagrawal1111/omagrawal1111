@@ -36,7 +36,7 @@
 </a>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=omagrawal1111&layout=compact&theme=highcontrast">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omagrawal1111&layout=compact&theme=highcontrast" height="230" width="310" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omagrawal1111&layout=compact&theme=highcontrast" height="200" width="310" />
   
  </a>
 </div>
