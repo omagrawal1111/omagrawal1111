@@ -28,7 +28,7 @@
   
   
 
-##  Github Stats :
+##  Github Stats 🧮:
  
   <div>
 <a href="https://github-readme-stats.vercel.app/api?username=omagrawal1111&show_icons=true&theme=highcontrast">
