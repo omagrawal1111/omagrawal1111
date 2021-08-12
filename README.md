@@ -21,7 +21,7 @@
 <p align="center">
   <a>
     <img height="180" width="160" src="https://github.com/omagrawal1111/imagebot/blob/main/left-wing.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=omagrawal1111&theme=dark&hide_border=true"/>
+   
    <img height="180" width="160" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/right.png">
 </p>
 <br/>  
