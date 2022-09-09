@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://github.com/omagrawal1111/omagrawal1111/blob/main/Gif.gif" width="360"/>
 
 
-- ### 🔭 I’m a final year Computer Science Undergraduate.<br>
+- ### 🔭 I’m a Software Engineer.<br>
 - ### 🌱 I’m currently learning Machine Learning, AI, OpenCV & Deep Learning.<br>
 - ### 👯 I’m looking to collaborate on some cool and unique Machine Learning and IOT Projects.<br>
 - ### 📫 How to reach me: recruitomagrawal.gehu@gmail.com<br>
